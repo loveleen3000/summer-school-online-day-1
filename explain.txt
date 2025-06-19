@@ -1,0 +1,22 @@
+✅ 1. What each HTML element does?
+
+ Explain:  <h1> to <h6> - Used to define headings with different sizes.
+            <form> - Used to create an input form for collecting user data.
+            <input type="text"> - Used to take user’s name as text input.
+            <input type="range"> - To take a satisfaction value between a range.
+
+
+✅ 2. Why you chose specific input types?
+
+ Explain:  I used <input type="email"> for email to ensure proper email validation.
+           I used <input type="tel"> with pattern for mobile number to accept 10 digits only.
+           I used <select> for choosing favorite language as a dropdown menu.
+           I added <input type="date"> for date of birth to allow date selection from calendar.
+
+
+✅ 3. How your navigation structure works?
+
+Explain:  I created three HTML files: portfolio.html, about.html, contact.html.
+          Each file has a navigation menu using <nav> and <a> tags to move between pages.
+          The nav bar allows users to easily jump from one page to another.
+
